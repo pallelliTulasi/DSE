@@ -2,7 +2,7 @@
 
 Welcome to my **Database Solution Expert (DSE)** learning repository! 🚀
 
-This repository contains all my assignments, SQL queries, concepts, and hands-on practice completed during my DSE course. It serves as my personal learning journal and reference for mastering SQL and relational database concepts. :contentReference[oaicite:0]{index=0}
+This repository contains all my assignments, SQL queries, concepts, and hands-on practice completed during my DSE course. It serves as my personal learning journal and reference for mastering SQL and relational database concepts. 
 
 ---
 
@@ -98,10 +98,6 @@ This repository contains all my assignments, SQL queries, concepts, and hands-on
 - Work with Multiple Tables using Joins
 - Understand Set Operators
 - Strengthen Problem-Solving Skills in SQL
-
- ## Learn SQL Codechef Certificate:
-![DSE Screenshot](images/Screenshot%202026-07-21%20092447.png)
-
 
 
 ## 👩‍💻 Author
