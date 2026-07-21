@@ -100,7 +100,7 @@ This repository contains all my assignments, SQL queries, concepts, and hands-on
 - Strengthen Problem-Solving Skills in SQL
 
  ## Learn SQL Codechef Certificate:
-<img src="C:\Users\tulas\OneDrive\Pictures\Screenshots\Screenshot 2026-07-21 092447.png" alt="DSE Banner" width="900">
+![DSE Screenshot](images/Screenshot%202026-07-21%20092447.png)
 
 
 
