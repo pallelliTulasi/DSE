@@ -99,8 +99,8 @@ This repository contains all my assignments, SQL queries, concepts, and hands-on
 - Understand Set Operators
 - Strengthen Problem-Solving Skills in SQL
 
-  Learn SQL Codechef Certificate:
-  ![Uploading image.png…]()
+ ## Learn SQL Codechef Certificate:
+<img src="C:\Users\tulas\OneDrive\Pictures\Screenshots\Screenshot 2026-07-21 092447.png" alt="DSE Banner" width="900">
 
 
 
