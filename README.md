@@ -1,4 +1,4 @@
-# 📘 DSE (Database Solution Expert) Learning Journey
+# 📘 DSE (Database Solution Expert)-Wipro TalentNext 
 
 Welcome to my **Database Solution Expert (DSE)** learning repository! 🚀
 
