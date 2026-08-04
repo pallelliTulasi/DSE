@@ -88,16 +88,22 @@ This repository contains all my assignments, SQL queries, concepts, and hands-on
 
 ---
 
-## 🎯 Learning Objectives
+✅ Assignment 8 (27-07-2026)
 
-- Understand Relational Database Concepts
-- Learn SQL from Basics to Intermediate
-- Write Efficient SQL Queries
-- Practice Database Normalization
-- Master Aggregate Functions
-- Work with Multiple Tables using Joins
-- Understand Set Operators
-- Strengthen Problem-Solving Skills in SQL
+Topic: Subqueries
+
+Single-Row Subqueries
+Multiple-Row Subqueries
+Correlated Subqueries
+Nested Subqueries
+Scalar Subqueries
+Inline Views
+EXISTS and NOT EXISTS
+ANY, ALL, and IN Operators
+Subqueries with Aggregate Functions
+Subqueries in WHERE Clause
+Subqueries in FROM Clause
+Subqueries in SELECT Clause
 
 
 ## 👩‍💻 Author
