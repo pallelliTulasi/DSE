@@ -78,6 +78,41 @@ This repository contains all my assignments, SQL queries, concepts, and hands-on
 - NATURAL JOIN
 
 ---
+###✅ Assignment 8 (27-07-2026)
+
+**Topic:** Subqueries
+
+-Single-Row Subqueries
+-Multiple-Row Subqueries
+-Correlated Subqueries
+-Nested Subqueries
+-Scalar Subqueries
+-Inline Views
+-EXISTS and NOT EXISTS
+-ANY, ALL, and IN Operators
+-Subqueries with Aggregate Functions
+-Subqueries in WHERE Clause
+-Subqueries in FROM Clause
+-Subqueries in SELECT Clause
+
+----
+
+###✅ Assignment: PL-SQL(28-07-2026)
+
+**Topic:** Control Structures  
+
+-IF-THEN-ELSE Conditional Statements   
+-ELSIF Conditionals  
+-WHILE Loops 
+-DML Operations (INSERT and UPDATE) within PL/SQL  
+-SELECT INTO Statements  
+-Variable Declarations using %TYPE 
+-Substitution Variables (&) for User Prompts  
+-Built-in Functions (MOD, NVL) 
+-Relational and Logical Operators (=, <>, AND) 
+-Console Output using DBMS_OUTPUT.PUT_LINE 
+
+--------
 
 ## 🛠️ Technologies Used
 
@@ -88,22 +123,7 @@ This repository contains all my assignments, SQL queries, concepts, and hands-on
 
 ---
 
-✅ Assignment 8 (27-07-2026)
 
-Topic: Subqueries
-
-Single-Row Subqueries
-Multiple-Row Subqueries
-Correlated Subqueries
-Nested Subqueries
-Scalar Subqueries
-Inline Views
-EXISTS and NOT EXISTS
-ANY, ALL, and IN Operators
-Subqueries with Aggregate Functions
-Subqueries in WHERE Clause
-Subqueries in FROM Clause
-Subqueries in SELECT Clause
 
 
 ## 👩‍💻 Author
