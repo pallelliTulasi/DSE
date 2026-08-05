@@ -1,8 +1,8 @@
-# 📘 DSE (Database Solution Expert)-Wipro TalentNext 
+# 📘 DSE (Database Solution Expert) – Wipro TalentNext
 
 Welcome to my **Database Solution Expert (DSE)** learning repository! 🚀
 
-This repository contains all my assignments, SQL queries, concepts, and hands-on practice completed during my DSE course. It serves as my personal learning journal and reference for mastering SQL and relational database concepts. 
+This repository contains all my assignments, SQL queries, concepts, and hands-on practice completed during my DSE course. It serves as my personal learning journal and reference for mastering SQL and relational database concepts.
 
 ---
 
@@ -10,6 +10,7 @@ This repository contains all my assignments, SQL queries, concepts, and hands-on
 
 ### ✅ Assignment 1 (04-07-2026)
 **Topic:** Database Normalization
+
 - First Normal Form (1NF)
 - Second Normal Form (2NF)
 - Third Normal Form (3NF)
@@ -19,8 +20,9 @@ This repository contains all my assignments, SQL queries, concepts, and hands-on
 ---
 
 ### ✅ Assignment 2 (07-07-2026)
-**Topic:** Retrieving Data using SQL SELECT Statement
-- DESCRIBE command
+**Topic:** Retrieving Data Using SQL SELECT Statement
+
+- DESCRIBE Command
 - SELECT Statement
 - Displaying Table Structure
 - Retrieving Table Data
@@ -29,6 +31,7 @@ This repository contains all my assignments, SQL queries, concepts, and hands-on
 
 ### ✅ Assignment 3 (08-07-2026)
 **Topic:** Restricting and Sorting Data
+
 - WHERE Clause
 - Comparison Operators
 - Logical Operators
@@ -39,6 +42,7 @@ This repository contains all my assignments, SQL queries, concepts, and hands-on
 
 ### ✅ Assignment 4 (09-07-2026)
 **Topic:** Single Row Functions
+
 - Character Functions
 - Number Functions
 - Date Functions
@@ -49,18 +53,20 @@ This repository contains all my assignments, SQL queries, concepts, and hands-on
 
 ### ✅ Assignment 5 (10-07-2026)
 **Topic:** Group Functions
+
 - COUNT()
 - SUM()
 - AVG()
 - MIN()
 - MAX()
-- GROUP BY
+- GROUP BY Clause
 - HAVING Clause
 
 ---
 
 ### ✅ Assignment 6 (11-07-2026)
 **Topic:** Set Operators
+
 - UNION
 - UNION ALL
 - INTERSECT
@@ -70,6 +76,7 @@ This repository contains all my assignments, SQL queries, concepts, and hands-on
 
 ### ✅ Assignment 7 (13-07-2026)
 **Topic:** SQL Joins
+
 - INNER JOIN
 - LEFT JOIN
 - RIGHT JOIN
@@ -78,58 +85,58 @@ This repository contains all my assignments, SQL queries, concepts, and hands-on
 - NATURAL JOIN
 
 ---
-###✅ Assignment 8 (27-07-2026)
 
+### ✅ Assignment 8 (27-07-2026)
 **Topic:** Subqueries
 
--Single-Row Subqueries
--Multiple-Row Subqueries
--Correlated Subqueries
--Nested Subqueries
--Scalar Subqueries
--Inline Views
--EXISTS and NOT EXISTS
--ANY, ALL, and IN Operators
--Subqueries with Aggregate Functions
--Subqueries in WHERE Clause
--Subqueries in FROM Clause
--Subqueries in SELECT Clause
+- Single-Row Subqueries
+- Multiple-Row Subqueries
+- Correlated Subqueries
+- Nested Subqueries
+- Scalar Subqueries
+- Inline Views
+- EXISTS and NOT EXISTS
+- ANY, ALL, and IN Operators
+- Subqueries with Aggregate Functions
+- Subqueries in WHERE Clause
+- Subqueries in FROM Clause
+- Subqueries in SELECT Clause
 
-----
+---
 
-###✅ Assignment: PL-SQL(28-07-2026)
+### ✅ Assignment 9 (28-07-2026)
+**Topic:** PL/SQL Control Structures
 
-**Topic:** Control Structures  
+- IF-THEN-ELSE Conditional Statements
+- ELSIF Conditionals
+- WHILE Loops
+- DML Operations (INSERT and UPDATE) in PL/SQL
+- SELECT INTO Statements
+- Variable Declarations using `%TYPE`
+- Substitution Variables (`&`) for User Prompts
+- Built-in Functions (`MOD`, `NVL`)
+- Relational and Logical Operators (`=`, `<>`, `AND`)
+- Console Output using `DBMS_OUTPUT.PUT_LINE`
 
--IF-THEN-ELSE Conditional Statements   
--ELSIF Conditionals  
--WHILE Loops 
--DML Operations (INSERT and UPDATE) within PL/SQL  
--SELECT INTO Statements  
--Variable Declarations using %TYPE 
--Substitution Variables (&) for User Prompts  
--Built-in Functions (MOD, NVL) 
--Relational and Logical Operators (=, <>, AND) 
--Console Output using DBMS_OUTPUT.PUT_LINE 
-
---------
+---
 
 ## 🛠️ Technologies Used
 
 - Oracle Database 21c XE
-- SQL*Plus
 - Oracle SQL
+- SQL*Plus
+- PL/SQL
 - Relational Database Concepts
 
+
 ---
-
-
-
 
 ## 👩‍💻 Author
 
 **Pallelli Lakshmi Tulasi**
 
-B.Tech – Information Technology
+**B.Tech – Information Technology**
 
-⭐ *This repository is continuously updated as I progress through my Database Systems Engineering learning journey.*
+---
+
+⭐ **This repository is continuously updated as I progress through my Database Solution Expert (DSE) learning journey with Wipro TalentNext.**
