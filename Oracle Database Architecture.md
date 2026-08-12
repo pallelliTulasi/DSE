@@ -1,4 +1,4 @@
-# Oracle Database Architecture â€“ 
+# Oracle Database Architecture 
 
 ## 1. Oracle Architecture
 
